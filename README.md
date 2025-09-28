@@ -1,1 +1,1 @@
-# httpsgithubcompawarshreyas425-maxevent-m
+# event_management_system
